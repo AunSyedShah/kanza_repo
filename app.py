@@ -8,4 +8,4 @@ def home():
 
 @app.route("/kanza")
 def kanza():
-    return "<h1>Hello Class</h1>"
+    return "<h1>Hello Kanza</h1>"
